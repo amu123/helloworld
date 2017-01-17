@@ -1,7 +1,7 @@
 node {
     stage ('Checkout'){
 	
-		bat 'javac src\\\\helloworld\\\\Helloworld'
+		bat 'javac src\\helloworld\\Helloworld'
 	
 	}
 }    
